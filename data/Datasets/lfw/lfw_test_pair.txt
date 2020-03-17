@@ -1,0 +1,12 @@
+Obama/1.jpg
+Obama/2.jpg
+Obama/3.jpg
+Trump/1.jpg
+Trump/2.jpg
+Trump/3.jpg
+liuyifei/1.jpg
+liuyifei/2.jpg
+liuyifei/3.jpg
+zhangliangying/1.jpg
+zhangliangying/2.jpg
+zhangliangying/3.jpg
