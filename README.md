@@ -1,6 +1,6 @@
 # Arcface_implement
-基于pytorch Arcface的视频实时人脸检测  
-基于Arcface的视频实时人脸检测，Arcface代码参考：[link](https://github.com/ronghuaiyang/arcface-pytorch)    
+基于pytorch Arcface的视频实时人脸识别  
+基于Arcface的视频实时人脸检测识别，Arcface代码参考：[link](https://github.com/ronghuaiyang/arcface-pytorch)    
 **实现功能：**  
 1.基于haar的人脸检测  
 2. 基于Areface的实时人脸识别，效果好  
