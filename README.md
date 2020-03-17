@@ -13,7 +13,7 @@
 **如何使用：**  
 1.创建文件夹：checkspoint  
 2.下载训练好的人脸检测模型， 放到checkpoint。地址：https://pan.baidu.com/s/1tFEX0yjUq3srop378Z1WMA pwd: b2ec  
-3.运行：python Main.py  
+3.运行：python Main.py  准备了部分测试用例，个性化：请在data文件内修改dataset/lfw/ 
 
 **效果展示:**   
 截图展示：  
