@@ -1,10 +1,10 @@
 # Arcface_implement
 基于pytorch Arcface的视频实时人脸检测
-**问题描述：**
-Missing key(s) in state_dict: "conv1.weight",
-Unexpected key(s) in state_dict: "module.conv1.weight",
-原因：多了module这个关键字在前面，可能是因为模型是在GPU分布式计算的。
-**改正load：**
+**问题描述：**  
+Missing key(s) in state_dict: "conv1.weight",  
+Unexpected key(s) in state_dict: "module.conv1.weight",  
+原因：多了module这个关键字在前面，可能是因为模型是在GPU分布式计算的。  
+**改正load：**  
 
 ```python
 # original saved file with DataParallel
